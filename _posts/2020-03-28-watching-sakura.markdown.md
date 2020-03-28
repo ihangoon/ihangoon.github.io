@@ -7,4 +7,4 @@ categories: vlog japan
 2020년 벚꽃의 계절이 돌아왔습니다.  
 올해는 여건 상 사람이 많은 곳에 가지 못하고 가까운 곳에서 벚꽃놀이를 하였습니다.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5fyguQXdbYk" frameborder="0" allowfullscreen></iframe>
+{% include youtube_embed.html id="5fyguQXdbYk" %}
